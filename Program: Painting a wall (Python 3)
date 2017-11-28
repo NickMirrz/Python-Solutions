@@ -1,0 +1,32 @@
+Program: Painting a wall (Python 3)
+(1) Prompt the user to input a wall's height and width. Calculate and output the wall's area. (Submit for 2 points).
+
+Enter wall height (feet): 12
+Enter wall width (feet): 15
+Wall area: 180.0 square feet
+
+(2) Extend to also calculate and output the amount of paint in gallons needed to paint the wall. Assume a gallon of paint covers 350 square feet. Store this value in a variable. (Submit for 2 points, so 4 points total).
+
+Enter wall height (feet): 12
+Enter wall width (feet): 15
+Wall area: 180.0 square feet
+Paint needed: 0.5142857142857142 gallons
+
+(3) Extend to also calculate and output the number of 1 gallon cans needed to paint the wall. Hint: Use a math function to round up to the nearest gallon. (Submit for 2 points, so 6 points total).
+
+Enter wall height (feet): 12
+Enter wall width (feet): 15
+Wall area: 180.0 square feet
+Paint needed: 0.5142857142857142 gallons
+Cans needed: 1 can(s)
+
+(4) Extend by prompting the user for a color they want to paint the walls. Calculate and output the total cost of the paint cans depending on which color is chosen. Hint: Use a dictionary to associate each paint color with its respective cost. Red paint costs $35 per gallon can, blue paint costs $25 per gallon can, and green paint costs $23 per gallon can. (Submit for 2 points, so 8 points total).
+
+Enter wall height (feet): 12
+Enter wall width (feet): 15
+Wall area: 180.0 square feet
+Paint needed: 0.5142857142857142 gallons
+Cans needed: 1 can(s)
+
+Choose a color to paint the wall: red
+Cost of purchasing red paint: $35
